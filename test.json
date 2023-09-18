@@ -1,0 +1,21 @@
+{
+  "hello": "world",
+  "test": 1234,
+  "whatever": null,
+  "a": [
+    1,
+    2,
+    null,
+    {
+      "b": 34
+    }
+  ],
+  "$schema": {
+    "nested": "schema",
+    "b": 1.251,
+    "c": -1.251,
+    "$schema": {
+      "nested": "schema"
+    }
+  }
+}
